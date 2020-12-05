@@ -1,0 +1,108 @@
+@font-face {
+  font-family: 'Catamaran';
+  font-style: normal;
+  font-weight: 100;
+  src: url(https://fonts.gstatic.com/s/catamaran/v7/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPHjc5aDdvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Catamaran';
+  font-style: normal;
+  font-weight: 200;
+  src: url(https://fonts.gstatic.com/s/catamaran/v7/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPPjd5aDdvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Catamaran';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/catamaran/v7/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPCbd5aDdvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Catamaran';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/catamaran/v7/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPHjd5aDdvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Catamaran';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/catamaran/v7/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPErd5aDdvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Catamaran';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/catamaran/v7/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPKba5aDdvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Catamaran';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/catamaran/v7/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPJ_a5aDdvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Catamaran';
+  font-style: normal;
+  font-weight: 800;
+  src: url(https://fonts.gstatic.com/s/catamaran/v7/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPPja5aDdvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Catamaran';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://fonts.gstatic.com/s/catamaran/v7/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPNHa5aDdvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rokkitt';
+  font-style: normal;
+  font-weight: 100;
+  src: url(https://fonts.gstatic.com/s/rokkitt/v19/qFdb35qfgYFjGy5hukqqhw5XeRgdi1rydqDCGbo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rokkitt';
+  font-style: normal;
+  font-weight: 200;
+  src: url(https://fonts.gstatic.com/s/rokkitt/v19/qFdb35qfgYFjGy5hukqqhw5XeRgdi1pyd6DCGbo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rokkitt';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/rokkitt/v19/qFdb35qfgYFjGy5hukqqhw5XeRgdi1qsd6DCGbo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rokkitt';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/rokkitt/v19/qFdb35qfgYFjGy5hukqqhw5XeRgdi1ryd6DCGbo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rokkitt';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/rokkitt/v19/qFdb35qfgYFjGy5hukqqhw5XeRgdi1rAd6DCGbo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rokkitt';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/rokkitt/v19/qFdb35qfgYFjGy5hukqqhw5XeRgdi1oscKDCGbo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rokkitt';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/rokkitt/v19/qFdb35qfgYFjGy5hukqqhw5XeRgdi1oVcKDCGbo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rokkitt';
+  font-style: normal;
+  font-weight: 800;
+  src: url(https://fonts.gstatic.com/s/rokkitt/v19/qFdb35qfgYFjGy5hukqqhw5XeRgdi1pycKDCGbo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rokkitt';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://fonts.gstatic.com/s/rokkitt/v19/qFdb35qfgYFjGy5hukqqhw5XeRgdi1pbcKDCGbo.ttf) format('truetype');
+}
